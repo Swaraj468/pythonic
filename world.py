@@ -1,0 +1,12 @@
+visit = ['Newzealand', 'Switzerland', 'Norway', 'Finland', 'Luxembourg']
+print(visit)
+print(sorted(visit))
+print(visit)
+visit.reverse()
+print(visit)
+visit.reverse()
+print(visit)
+visit.sort()
+print(visit)
+visit.sort(reverse=True)
+print(visit)
