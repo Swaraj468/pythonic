@@ -1,11 +1,3 @@
-my_foods = ['pizza', 'falafel', 'carrot cake', 'Pasta']
-friend_foods = my_foods[:]
-
-my_foods.append('cannoli')
-friend_foods.append('ice cream')
-
-print("My favorite foods are: ")
-print(my_foods)
-
-print("\nMy friends's favorite foods are: ")
-print(friend_foods)
+slic = ["Mango", "Apple", "Litchi", ""]
+for slice in slic[0:3]:
+    print("The first three items in the list are: ")
